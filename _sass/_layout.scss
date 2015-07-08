@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    border-bottom: 1px solid $grey-color-light;
+    border-top: 3px solid #000;
 }
 
 .site-title {
@@ -16,16 +16,18 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+    font-family: 'Crimson Text', serif;
+    color: #000;
+}
+.site-title a, .site-title a:visited, .site-title a:hover {
+  color: #000;
+  text-decoration: none;
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+    font-size: $small-font-size;
 
     .menu-icon {
         display: none;
@@ -48,7 +50,7 @@
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
+        text-align: center;
 
         .menu-icon {
             display: block;
@@ -193,18 +195,28 @@
 /**
  * Posts
  */
+.pagination{text-align: center;}
+.next{float: right;}
+.previous{float: left;}
+.page_number{}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 35px;
     letter-spacing: -1px;
     line-height: 1;
+    font-family: $base-font-family;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+.post-title a, .post-title a:visited, .post-title a:hover{
+  color: #000;
+  text-decoration: none;
 }
 
 .post-content {
@@ -233,4 +245,18 @@
             font-size: 18px;
         }
     }
+}
+
+/** mailchimp **/
+.mailchimp-signup-box{
+  border-radius: 10px;
+  margin: 0px auto;
+  max-width: 500px;
+  padding: 10px;
+  border: 1px solid #AAA;
+  background-color: #EEE;
+  line-height: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow: 0px 5px 10px #777;
 }

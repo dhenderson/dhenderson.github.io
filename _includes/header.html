@@ -1,8 +1,8 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="site-title">
+      <a  href="{{ site.baseurl }}/" style="text-align: center'">{{ site.title }}</a>
+    </div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -19,9 +19,16 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        <!-- subscribe -->
+
+          <a class="page-link" href="http://feeds.feedburner.com/fcp">
+            <i class="fa fa-rss"></i>
+          </a>
+
+          <a class="page-link" href="https://twitter.com/{{ site.twitter_username }}">
+            <i class="fa fa-twitter"></i>
+          </a>
       </div>
     </nav>
-
-  </div>
 
 </header>

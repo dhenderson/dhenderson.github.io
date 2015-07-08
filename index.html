@@ -4,20 +4,35 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  {% for post in paginator.posts %}
+    <div class="post">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <header class="post-header">
+        <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        <p class="post-meta">
+          {{ post.date | date: "%b %-d, %Y" }} &bull;
+          <a href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-link"></i></a>
+        </p>
+      </header>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <article class="post-content">
+        {{ post.content }}
+      </article>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
+
+    <div style="font-size: 2em; color: #DDD; margin-bottom: 40px; text-align: center;">&#8497;</div>
+  {% endfor %}
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-hand-o-left"></i> Previous</a>
+    {% endif %}
+    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next <i class="fa fa-hand-o-right"></i></a>
+    {% endif %}
+  </div>
 
 </div>

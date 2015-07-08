@@ -1,0 +1,34 @@
+---
+layout: post
+title: Digging into the Foundation Center's Glasspockets grants data
+date: 2014-11-26 06:00:58.000000000 -08:00
+categories: []
+tags:
+- charity
+- data
+- gates
+- gates foundation
+- giving
+- nonprofit
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+author:
+  login: david
+  email: david.henderson82@gmail.com
+  display_name: david
+  first_name: ''
+  last_name: ''
+---
+<p>As you may know, the <a href="http://foundationcenter.org/">Foundation Center</a> has been collecting detailed grants data from some of the largest U.S. foundations for the last few years through its <a href="http://glasspockets.org/">Glasspockets</a> initiative. What you may not know is that Glasspockets has developed a simple programmatic way to access its data through an open API (a way for programmers to easily access information).</p>
+<p>For those technically inclined, I developed and published an <a href="https://github.com/dhenderson/glasspockets">R wrapper for accessing and loading Glasspockets queries on Github</a>. For those less technical, <a href="http://cran.r-project.org/">R is a popular open soure statistical software package</a> that I use for data analysis.</p>
+<p>The Glasspockets API plus the R library allows me to easily search Glasspockets grants, which I’m planning on mining for future blog posts. For my initial pass with the data I started looking at the Gates Foundation’s giving, specifically looking at the seasonality in their grant making.</p>
+<p><strong>Gates giving by month</strong></p>
+<p>I’ve <a href="http://www.fullcontactphilanthropy.com/2008/11/26/eat-every-day/">long lamented</a> how our tax policy drives seasonal giving, creating peaks and valleys in donations. Next week’s <a href="http://www.givingtuesday.org/">Giving Tuesday</a> is a clever way to try to capitalize on this unfortunate reality.</p>
+<p>While the typical donor might not think about giving until year end, I would think that large foundations would be less seasonal in their giving. In the case of the Gates Foundation, I would also be wrong.</p>
+<p>Using data from Glasspockets, I constructed the following chart which shows the sum of giving by month from 2011–2014 (up to November 2014 that is). A quick glance shows that November, the 11th month, dwarfs grants made in any other month. Indeed, the Gates Foundation made grants totalling $3,204,224,816 in the Novembers from 2011–2014.</p>
+<p><a href="/assets/images/gates_giving_by_month1-e1416977919636.png"><img class="aligncenter size-full wp-image-1247" src="/assets/images/gates_giving_by_month1-e1416977919636.png" alt="gates_giving_by_month" width="600" height="424" /></a></p>
+<p>I’m not necessarily arguing that it’s a <em>bad</em> thing that Gates giving isn’t more spread out. I did however assume that it would not so closely match the regular donor public’s patterns of giving.</p>
+<p>I’m interested to explore whether this same seasonality, especially dominance of giving in November, holds true for other foundations or not. More importantly, I’m looking forward to digging deeper into the Glasspockets data. If you are a fellow R user, feel free to <a href="https://github.com/dhenderson/glasspockets">grab the library and jump in as well</a>.</p>

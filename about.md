@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey there, my name is David Henderson and I have worked with a wide range of organizations in the social sector helping them get more from their operational, outcomes, and donor data. I work at the [Family Independence Initiative][fii] where I’m the Director of Analytics.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My professional focus is on improving the way social sector organizations utilize information to implement higher impact interventions. I have been quoted in the Chronicle of Philanthropy and have written for Change.org and the Huffington Post.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I have a Masters of Science in Public Policy and Management with Highest Distinction from Carnegie Mellon University.
+
+Say hello
+
+[Twitter][twitter], [LinkedIn][linkedin], or by email at [david.henderson82@gmail.com][email].
+
+[fii]: http://www.fii.org/
+[twitter]: https://twitter.com/david_henderson
+[linkedin]: https://www.linkedin.com/in/davidihenderson
+[email]: mailto:david.henderson82@gmail.com

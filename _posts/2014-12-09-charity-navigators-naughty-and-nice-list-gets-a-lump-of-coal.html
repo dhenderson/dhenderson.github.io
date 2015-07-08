@@ -1,0 +1,38 @@
+---
+layout: post
+title: Charity Navigator's naughty and nice list gets a lump of coal
+date: 2014-12-09 06:00:13.000000000 -08:00
+categories: []
+tags:
+- charity
+- charity navigator
+- data
+- giving
+- rating
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+author:
+  login: david
+  email: david.henderson82@gmail.com
+  display_name: david
+  first_name: ''
+  last_name: ''
+---
+<p>Last week Charity Navigator released a <a href="http://blog.charitynavigator.org/2014/12/the-naughty-and-nice-list.html">“naughty and nice”</a> list, listing the highest and lowest rated charities by category (civil rights, animal rights, etc.), In the spirit of the holidays, shaming the “lowest” rated charities seemed a rather naughty thing for Charity Navigator to do, so I was intrigued to learn more about what makes a charity naughty or nice according to the charity rater.</p>
+<p>I wrote a program to scrape data on the 68 charities listed in the 34 categories from Charity Navigator’s site (two charities per category, one high and one low rated). I used this data to discover a few interesting points about the naughty and nice list, detailed in the rest of this post.</p>
+<p><strong>Highly rated charities have significantly greater revenues than low rated charities</strong></p>
+<p>The highest rated charities earn quite a bit more in revenue than the lowest rated charities. Highly rated charities have median revenues of $6,386,300 versus $1,418,200 for low rated charities. In this way, Charity Navigator is less highlighting who is naughty and nice, and instead who is well funded and who is not.</p>
+<p><a href="/assets/images/rev_boxplot-e1418106864591.png"><img class="aligncenter size-full wp-image-1258" src="/assets/images/rev_boxplot-e1418106864591.png" alt="rev_boxplot" width="600" height="449" /></a></p>
+<p><strong>Highly rated charities spend more on programs</strong></p>
+<p>Not surprisingly, program expense (percent of the charity’s budget spent on the programs and services it delivers) is a strong predictor of whether a charity is highly rated or not. In fact, no charity with a program expense ratio below 79.1% (blue line in the following chart) was highly rated, with just four low rated charities having program expense ratios above this threshold. I guess we’ll have to wait until next Christmas for the end of the <a href="http://overheadmyth.com/">overhead myth</a>.</p>
+<p><a href="/assets/images/program_expense_score-e1418106907189.png"><img class="aligncenter size-full wp-image-1259" src="/assets/images/program_expense_score-e1418106907189.png" alt="program_expense_score" width="600" height="449" /></a></p>
+<p><strong>Highly rated charities tend to be clustered on the East Coast</strong></p>
+<p>With only 34 highly recommended charities, there’s no way Charity Navigator could have a highly recommended charity in each state. But I was surprised to see the East Coast bias in where highly recommended charities are located. The green lines outline the density of high rated charities, which are identified as green dots. The red dots are the locations of the low rated charities. My poor Southern California is especially naughty it seems, home to four low-rated charities and not a single high rated one.</p>
+<p><a href="/assets/images/high_rate_map-e1418107097248.png"><img class="aligncenter size-full wp-image-1262" src="/assets/images/high_rate_map-e1418107097248.png" alt="high_rate_map" width="600" height="375" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Concluding remarks</strong></p>
+<p>I’d like to be clear that I have no <em>problem</em> with Charity Navigator. I think this list was a fairly silly thing for them to put together, and believe their data backs up this claim. I don’t think there’s much to be gained by shaming “naughty” nonprofits, especially when so much of that shaming is driven by how money is spent rather than what outcomes are achieved. Moreover, the lack of geographic diversity likely makes these “top picks” not super useful to a swath of the giving public.</p>
+<p>As an aside, I often struggle with how technical (or not) this blog should be. I intentionally shied away from the more technical pieces of this mini-project, such as discussing how I retrieved and explored the data. If there is any interest in detailing the process or sharing the data, let me know and I’ll be happy to do a followup piece.</p>
