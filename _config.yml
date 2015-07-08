@@ -10,6 +10,7 @@ github_username:  dhenderson
 author: David Henderson
 paginate: 5
 paginate_path: "/page:num/"
+permalink: pretty
 
 # Build settings
 markdown: kramdown
