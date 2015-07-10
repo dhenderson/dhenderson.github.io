@@ -6,9 +6,7 @@
     position: relative;
     border-top: 0px solid #000;
     background-color: #FFF;
-    border-top: 3px solid #000;
     border-bottom: 1px solid $grey-color-light;
-    padding-top: 10px;
 }
 
 .site-title {
@@ -215,14 +213,15 @@
     font-size: 35px;
     letter-spacing: -1px;
     line-height: 1;
-    font-family: $brand-font-family;
+    font-family: $base-font-family;
+    font-weight: bold;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
 }
 .post-title a, .post-title a:visited, .post-title a:hover{
-  color: #000;
+  color: $text-color;
   text-decoration: none;
 }
 
