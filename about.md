@@ -10,7 +10,7 @@ My professional focus is on improving the way social sector organizations utiliz
 
 I have a Masters of Science in Public Policy and Management with Highest Distinction from Carnegie Mellon University.
 
-Say hello
+**Say hello**
 
 [Twitter][twitter], [LinkedIn][linkedin], or by email at [david.henderson82@gmail.com][email].
 
