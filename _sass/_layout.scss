@@ -2,22 +2,26 @@
  * Site header
  */
 .site-header {
-    min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 0px solid #000;
+    background-color: #FFF;
     border-top: 3px solid #000;
+    border-bottom: 1px solid $grey-color-light;
+    padding-top: 10px;
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 22px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    font-family: 'Crimson Text', serif;
+    font-family: $brand-font-family;
     color: #000;
+    background-color: #FFF;
+    font-weight: bold;
+    border-radius: 0px;
 }
 .site-title a, .site-title a:visited, .site-title a:hover {
   color: #000;
@@ -211,7 +215,7 @@
     font-size: 35px;
     letter-spacing: -1px;
     line-height: 1;
-    font-family: $base-font-family;
+    font-family: $brand-font-family;
 
     @include media-query($on-laptop) {
         font-size: 36px;

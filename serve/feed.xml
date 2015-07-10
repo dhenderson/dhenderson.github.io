@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Full Contact Philanthropy</title>
+    <description>Social sector commentary.
+</description>
+    <link>http://fullcontactphilanthropy.com/</link>
+    <atom:link href="http://fullcontactphilanthropy.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2015-07-09 23:01:55 -0700</pubDate>
+    <lastBuildDate>2015-07-09 23:01:55 -0700</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>What I learned about the state of analytics in the social sector at the Do Good Data conference</title>
+        <description>&lt;p&gt;Last week I attended the third annual &lt;a href=&quot;http://dogooddata.com/&quot;&gt;Do Good Data&lt;/a&gt; conference in Chicago. The turnout was impressive with about six hundred attendees across the country and a smattering of international attendees.&lt;/p&gt;
+&lt;p&gt;I attended the conference with high hopes. &lt;a href=&quot;https://twitter.com/meansandrew&quot;&gt;Andrew Means&lt;/a&gt;, one of the conveners of the conference suggested in his opening remarks that being a data analyst in the social sector can be a lonely job. Andrew stated that at the Do Good Data conference you are surrounded by people like yourself. For better or for worse, I did not find this to be true.&lt;/p&gt;
+&lt;p&gt;While the conference title suggests it is targeted at &lt;em&gt;analysts&lt;/em&gt;, my experience suggested attendees were more &lt;em&gt;enthusiasts&lt;/em&gt; than analysts. Probably rightly so, sessions were targeted at those with very little technical skill, making the content not super compelling for those grappling with higher order problems.&lt;/p&gt;
+&lt;p&gt;As I said, I don&amp;#8217;t fault the conference for its emphasis on beginners. My experience at the conference suggests the conveners got it right for the vast majority of folks there, which reveals an unfortunate truth about the state of analytics in the social sector.&lt;/p&gt;
+&lt;p&gt;The rhetoric that analytics is changing the social sector is largely untrue in practice. Those of us in attendance did not sum to a collection of &amp;#8220;data wizards&amp;#8221; and &amp;#8220;analysis ninjas&amp;#8221;. These are nonsense terms designed to sell tickets by making us so called social sector analysts feel like something we are not. Ironically, these types of monikers are yet another example of what conference speaker and Chief Program Officer of the &lt;a href=&quot;https://www.robinhood.org/&quot;&gt;Robin Hood Foundation&lt;/a&gt; argued nonprofits do too much of, taking credit where none is do.&lt;/p&gt;
+&lt;p&gt;I don&amp;#8217;t proclaim to be a gifted analyst. I possess the basic tools of a data scientist, but would hesitate to declare myself one in public. The fact that I felt the sessions at Do Good Data were too rudimentary is less good job me than it is bad job social sector.&lt;/p&gt;
+&lt;p&gt;Indeed, the only real kudos belong to the Do Good Data conference, which rightly recognizes where the sector is at, and developed a conference to try to bring folks along a little bit.&lt;/p&gt;
+&lt;p&gt;But little by little leaves a long way to go. I sincerely hope I&amp;#8217;m completely wrong about the general experience level of conference attendees (less likely) or that conference attendees are not representative of the social sector&amp;#8217;s analytical capabilities (more likely).&lt;/p&gt;
+&lt;p&gt;For my part, I would be inclined to return to next year&amp;#8217;s conference, if for nothing else than the simple fact that I support the aspiration of a data driven social sector, even if the reality falls short. If you are a data analyst in the social sector, I&amp;#8217;d encourage you to attend as well. Every sector contains a mix of individuals at all skill levels. Do Good Data 2015 met the needs of beginners well. &lt;a href=&quot;http://dogooddata.com/registration/&quot;&gt;Sign up for Do Good Data 2016&lt;/a&gt; and help prove my assessment of social sector analytics wrong, and maybe help raise the level of sessions at next year&amp;#8217;s conference as well.&lt;/p&gt;
+</description>
+        <pubDate>2015-05-04 05:22:03 -0700</pubDate>
+        <link>http://fullcontactphilanthropy.com/2015/05/04/what-i-learned-about-the-state-of-analytics-in-the-social-sector-at-the-do-good-data-conference/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2015/05/04/what-i-learned-about-the-state-of-analytics-in-the-social-sector-at-the-do-good-data-conference/</guid>
+        
+        <category>data</category>
+        
+        <category>do good data</category>
+        
+        <category>nonprofit</category>
+        
+        <category>social sector</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open grant making - The Council on Foundations' almost good idea</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;http://www.cof.org/&quot;&gt;Council on Foundations&lt;/a&gt; made a stink last week with their proposal to hold a &lt;a href=&quot;http://abc.go.com/shows/shark-tank&quot;&gt;Shark Tank&lt;/a&gt; style competition where nonprofits would pitch for a $40,000 grand prize before a live audience. The idea was &lt;a href=&quot;https://philanthropy.com/article/Opinion-Nobody-Needs-a/228711&quot;&gt;largely derided&lt;/a&gt; by the social sector, so much so that the Council on Foundations ended up &lt;a href=&quot;https://philanthropy.com/article/Council-on-Foundations-Cancels/228881&quot;&gt;scrapping the event&lt;/a&gt; all together.&lt;/p&gt;
+&lt;p&gt;Copying a show called Shark Tank is never a good idea. While it&amp;#8217;s certainly unpopular to do so, I do however think there are &lt;em&gt;some&lt;/em&gt; elements of the open style grant competition the Council on Foundations proposed that might be valuable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funder transparency&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For a sector that seems borderline obsessed with transparency, I almost spit my soup at the argument that the open style grant competition was problematic because it failed to preserve grant seekers&amp;#8217; anonymity. Public charities&amp;#8217; financials are largely a matter of public record through form 990s, it&amp;#8217;s not hard to tell who has money and who does not. Indeed, I think there could be plenty of value in not only knowing who &lt;em&gt;does&lt;/em&gt; get funded, but in who &lt;em&gt;does not&lt;/em&gt; and &lt;em&gt;why&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;For my part I hang &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/06/18/goodbye-idealistics/&quot;&gt;my failures&lt;/a&gt; like underwear up a flagpole, hoping &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/09/10/my-failed-gates-foundation-proposal/&quot;&gt;others can learn from my mistakes&lt;/a&gt; and succeed were I fell short. Grant seekers would be better off not only knowing what does get funded, but what doesn&amp;#8217;t get funded as well. Instead of preserving the feelings of applicants, we should be building public knowledge.&lt;/p&gt;
+&lt;p&gt;More important, publishing rejected grant proposals would better hold funders accountable, providing the public a peek behind the well varnished oak doors of the philanthro-elite. This style of open grant making would create a more equitable power distribution, where funders become accountable to the crowd with their decision making in plain view. Preserving grantee anonymity paradoxically preserves this power imbalance, to the determinant of the applicant anonymity purportedly protects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Marketplace for grants&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Contestants go on Shark Tank not just to secure investment from one of the investors on the panel, but to gain exposure to Shark Tank&amp;#8217;s sizable audience. Grant applications are labored over by dedicated staff and entrepreneurs, presented to a handful of program officers at select foundations, and otherwise never really see the light of day.&lt;/p&gt;
+&lt;p&gt;If grant applications were public, one&amp;#8217;s rejection from [insert big name foundation] might serendipitously get picked up by another foundation or donor. Taken a step further, if all these applications were not only public but in machine readable formats, one could truly build a fundee/funder marketplace where investors and social innovators could find one another far more easily.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Game over&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shark Tank is a stupid show. The Council on Foundations really should have anticipated this backlash. But the underlying idea of open grant making has potential, and deserves a better champion and a more intelligent debate. I&amp;#8217;m hoping the possible end-game of a more frictionless way for great social innovations to get funded doesn&amp;#8217;t get bogged down by a most unfortunate game-show analogy.&lt;/p&gt;
+</description>
+        <pubDate>2015-04-01 01:30:41 -0700</pubDate>
+        <link>http://fullcontactphilanthropy.com/2015/04/01/open-grant-making-the-council-on-foundations-almost-good-idea/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2015/04/01/open-grant-making-the-council-on-foundations-almost-good-idea/</guid>
+        
+        <category>charity</category>
+        
+        <category>grant</category>
+        
+        <category>nonprofit</category>
+        
+        <category>philanthropy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Charity Navigator's naughty and nice list gets a lump of coal</title>
+        <description>&lt;p&gt;Last week Charity Navigator released a &lt;a href=&quot;http://blog.charitynavigator.org/2014/12/the-naughty-and-nice-list.html&quot;&gt;“naughty and nice”&lt;/a&gt; list, listing the highest and lowest rated charities by category (civil rights, animal rights, etc.), In the spirit of the holidays, shaming the “lowest” rated charities seemed a rather naughty thing for Charity Navigator to do, so I was intrigued to learn more about what makes a charity naughty or nice according to the charity rater.&lt;/p&gt;
+&lt;p&gt;I wrote a program to scrape data on the 68 charities listed in the 34 categories from Charity Navigator’s site (two charities per category, one high and one low rated). I used this data to discover a few interesting points about the naughty and nice list, detailed in the rest of this post.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highly rated charities have significantly greater revenues than low rated charities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The highest rated charities earn quite a bit more in revenue than the lowest rated charities. Highly rated charities have median revenues of $6,386,300 versus $1,418,200 for low rated charities. In this way, Charity Navigator is less highlighting who is naughty and nice, and instead who is well funded and who is not.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/rev_boxplot-e1418106864591.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-1258&quot; src=&quot;/assets/images/rev_boxplot-e1418106864591.png&quot; alt=&quot;rev_boxplot&quot; width=&quot;600&quot; height=&quot;449&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highly rated charities spend more on programs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not surprisingly, program expense (percent of the charity’s budget spent on the programs and services it delivers) is a strong predictor of whether a charity is highly rated or not. In fact, no charity with a program expense ratio below 79.1% (blue line in the following chart) was highly rated, with just four low rated charities having program expense ratios above this threshold. I guess we’ll have to wait until next Christmas for the end of the &lt;a href=&quot;http://overheadmyth.com/&quot;&gt;overhead myth&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/program_expense_score-e1418106907189.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-1259&quot; src=&quot;/assets/images/program_expense_score-e1418106907189.png&quot; alt=&quot;program_expense_score&quot; width=&quot;600&quot; height=&quot;449&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highly rated charities tend to be clustered on the East Coast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With only 34 highly recommended charities, there’s no way Charity Navigator could have a highly recommended charity in each state. But I was surprised to see the East Coast bias in where highly recommended charities are located. The green lines outline the density of high rated charities, which are identified as green dots. The red dots are the locations of the low rated charities. My poor Southern California is especially naughty it seems, home to four low-rated charities and not a single high rated one.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/high_rate_map-e1418107097248.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-1262&quot; src=&quot;/assets/images/high_rate_map-e1418107097248.png&quot; alt=&quot;high_rate_map&quot; width=&quot;600&quot; height=&quot;375&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Concluding remarks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’d like to be clear that I have no &lt;em&gt;problem&lt;/em&gt; with Charity Navigator. I think this list was a fairly silly thing for them to put together, and believe their data backs up this claim. I don’t think there’s much to be gained by shaming “naughty” nonprofits, especially when so much of that shaming is driven by how money is spent rather than what outcomes are achieved. Moreover, the lack of geographic diversity likely makes these “top picks” not super useful to a swath of the giving public.&lt;/p&gt;
+&lt;p&gt;As an aside, I often struggle with how technical (or not) this blog should be. I intentionally shied away from the more technical pieces of this mini-project, such as discussing how I retrieved and explored the data. If there is any interest in detailing the process or sharing the data, let me know and I’ll be happy to do a followup piece.&lt;/p&gt;
+</description>
+        <pubDate>2014-12-09 06:00:13 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/12/09/charity-navigators-naughty-and-nice-list-gets-a-lump-of-coal/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/12/09/charity-navigators-naughty-and-nice-list-gets-a-lump-of-coal/</guid>
+        
+        <category>charity</category>
+        
+        <category>charity navigator</category>
+        
+        <category>data</category>
+        
+        <category>giving</category>
+        
+        <category>rating</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Giving Tuesday picks</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.givingtuesday.org/&quot;&gt;Giving Tuesday&lt;/a&gt; is this Tuesday, December 2nd. I’ve compiled a list of a few of my picks for Giving Tuesday, separated into two groups; safe picks and speculative gifts. As the grouping names suggest, “safe picks” are gifts to organizations that I feel confident deliver effective interventions. The second group, “speculative gifts”, are organizations I’m supporting but whose interventions/execution I’m not as confident in.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Safe picks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GiveDirectly&lt;/strong&gt; - &lt;a href=&quot;https://www.givedirectly.org/&quot;&gt;GiveDirectly&lt;/a&gt; provides unconditional cash transfers to those living in &lt;a href=&quot;http://en.wikipedia.org/wiki/Extreme_poverty&quot;&gt;extreme poverty&lt;/a&gt;. I frequently &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/09/17/is-your-program-better-than-cash/&quot;&gt;write about GiveDirectly&lt;/a&gt; because I believe both in the intervention and their &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2014/11/17/telling-average-stories/&quot;&gt;data driven philosophy&lt;/a&gt;. If you care about extreme poverty and believe people should be empowered with capital to lift themselves out of poverty, this is by far the best way you can spend your donated dollars.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Family Independence Initiative&lt;/strong&gt; - I work at the &lt;a href=&quot;http://www.fii.org/&quot;&gt;Family Independence Initiative&lt;/a&gt; (FII), so I’m obviously biased. Of course, I &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2014/11/10/why-i-joined-the-family-independence-initiative/&quot;&gt;joined FII because I believe in their approach of investing in the poor directly.&lt;/a&gt; If you care about &lt;em&gt;U.S. domestic poverty&lt;/em&gt;, and are especially interested in the empowerment aspect of democratizing access to capital, then FII is a solid choice.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Housing first&lt;/strong&gt; - &lt;a href=&quot;http://www.endhomelessness.org/pages/housing_first&quot;&gt;Housing first&lt;/a&gt; is not an organization, rather it’s an approach to homelessness that argues it is cheaper to place people into housing first, and then provide supportive services, rather than to try to “treat” people living on the streets. There are a lot of organizations taking a housing first approach throughout the U.S. (and other countries as well). If you care about &lt;em&gt;chronic homelessness&lt;/em&gt;, find an organization committed to housing first in an area you care about. Here in Los Angeles, I recommend &lt;a href=&quot;http://www.epath.org/&quot;&gt;People Assisting the Homeless&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Speculative gifts&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Team Tassy&lt;/strong&gt; - &lt;a href=&quot;http://teamtassy.org/&quot;&gt;Team Tassy&lt;/a&gt; helps prepare and place people in Haiti into jobs. This is an admittedly bias recommendation, as the executive director there is a graduate school friend of mine and &lt;a href=&quot;http://teamtassy.org/who-we-are/our-team/&quot;&gt;I’ve worked&lt;/a&gt; with Team Tassy on their outcomes measurement framework. The organization is in relative infancy being only a few years along, but they’ve gained the trust of the families they work with in Menelas, and have embraced a data driven approach that I believe is the bedrock for effective interventions. If you care about Haiti, a country that has lost its fundraising luster long after the &lt;a href=&quot;http://en.wikipedia.org/wiki/2010_Haiti_earthquake&quot;&gt;2010 earthquake&lt;/a&gt;, &lt;em&gt;and&lt;/em&gt; you are looking for a speculative gift to a small nonprofit with unrealized potential, I definitely recommend Team Tassy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LivelyHoods&lt;/strong&gt; - &lt;a href=&quot;http://livelyhoods.org/&quot;&gt;LivelyHoods&lt;/a&gt; provides products to youth living in impoverished communities in Kenya and trains the youth to sell the products. LivelyHoods is better than most organizations at &lt;a href=&quot;http://livelyhoods.tumblr.com/post/103634911091/october-celebrating-our-sales-agents&quot;&gt;consistently reporting key performance indicators on their blog&lt;/a&gt;, which wins them a lot of points in my book. I also like the &lt;em&gt;concept&lt;/em&gt; of the model, as the purpose of the intervention is to spark economic activity rather than a purely charitable approach. I think there are legitimate questions about the efficacy of both this model and of LivelyHoods itself. I’m also interested in how this approach compares to an unconditional cash transfer. That said, if you care about &lt;em&gt;impoverished Kenyan youth&lt;/em&gt;, buy-in to the model, and are looking to add a speculative gift to your portfolio, I think LivelyHoods is a worthwhile bet.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>2014-12-01 06:00:51 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/12/01/giving-tuesday-picks/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/12/01/giving-tuesday-picks/</guid>
+        
+        <category>charity</category>
+        
+        <category>donations</category>
+        
+        <category>gifts</category>
+        
+        <category>giving tuesday</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Digging into the Foundation Center's Glasspockets grants data</title>
+        <description>&lt;p&gt;As you may know, the &lt;a href=&quot;http://foundationcenter.org/&quot;&gt;Foundation Center&lt;/a&gt; has been collecting detailed grants data from some of the largest U.S. foundations for the last few years through its &lt;a href=&quot;http://glasspockets.org/&quot;&gt;Glasspockets&lt;/a&gt; initiative. What you may not know is that Glasspockets has developed a simple programmatic way to access its data through an open API (a way for programmers to easily access information).&lt;/p&gt;
+&lt;p&gt;For those technically inclined, I developed and published an &lt;a href=&quot;https://github.com/dhenderson/glasspockets&quot;&gt;R wrapper for accessing and loading Glasspockets queries on Github&lt;/a&gt;. For those less technical, &lt;a href=&quot;http://cran.r-project.org/&quot;&gt;R is a popular open soure statistical software package&lt;/a&gt; that I use for data analysis.&lt;/p&gt;
+&lt;p&gt;The Glasspockets API plus the R library allows me to easily search Glasspockets grants, which I’m planning on mining for future blog posts. For my initial pass with the data I started looking at the Gates Foundation’s giving, specifically looking at the seasonality in their grant making.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gates giving by month&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’ve &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2008/11/26/eat-every-day/&quot;&gt;long lamented&lt;/a&gt; how our tax policy drives seasonal giving, creating peaks and valleys in donations. Next week’s &lt;a href=&quot;http://www.givingtuesday.org/&quot;&gt;Giving Tuesday&lt;/a&gt; is a clever way to try to capitalize on this unfortunate reality.&lt;/p&gt;
+&lt;p&gt;While the typical donor might not think about giving until year end, I would think that large foundations would be less seasonal in their giving. In the case of the Gates Foundation, I would also be wrong.&lt;/p&gt;
+&lt;p&gt;Using data from Glasspockets, I constructed the following chart which shows the sum of giving by month from 2011–2014 (up to November 2014 that is). A quick glance shows that November, the 11th month, dwarfs grants made in any other month. Indeed, the Gates Foundation made grants totalling $3,204,224,816 in the Novembers from 2011–2014.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/gates_giving_by_month1-e1416977919636.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-1247&quot; src=&quot;/assets/images/gates_giving_by_month1-e1416977919636.png&quot; alt=&quot;gates_giving_by_month&quot; width=&quot;600&quot; height=&quot;424&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I’m not necessarily arguing that it’s a &lt;em&gt;bad&lt;/em&gt; thing that Gates giving isn’t more spread out. I did however assume that it would not so closely match the regular donor public’s patterns of giving.&lt;/p&gt;
+&lt;p&gt;I’m interested to explore whether this same seasonality, especially dominance of giving in November, holds true for other foundations or not. More importantly, I’m looking forward to digging deeper into the Glasspockets data. If you are a fellow R user, feel free to &lt;a href=&quot;https://github.com/dhenderson/glasspockets&quot;&gt;grab the library and jump in as well&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>2014-11-26 06:00:58 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/11/26/digging-into-the-foundation-centers-glasspockets-grants-data/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/11/26/digging-into-the-foundation-centers-glasspockets-grants-data/</guid>
+        
+        <category>charity</category>
+        
+        <category>data</category>
+        
+        <category>gates</category>
+        
+        <category>gates foundation</category>
+        
+        <category>giving</category>
+        
+        <category>nonprofit</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How founder culture threatens the social sector</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/entrepreneur-superhero-pic.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-1235&quot; src=&quot;/assets/images/entrepreneur-superhero-pic-300x174.jpg&quot; alt=&quot;entrepreneur-superhero-pic&quot; width=&quot;300&quot; height=&quot;174&quot; /&gt;&lt;/a&gt;Job titles can be incredibly misleading, yet are frustratingly persuasive. Most of my career I’ve been the “founder”, “CEO”, and “principal” of a &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/06/18/goodbye-idealistics/&quot;&gt;company I created&lt;/a&gt;. During my eight years running my company I was always amazed by the instant credibility these lofty titles commanded. Never mind that as a founder you are not only the “CEO” and “founder”, but also the “office coordinate”, “janitor”, and just about everything else.&lt;/p&gt;
+&lt;p&gt;Nevertheless, people invariably assumed my decision to create a company meant that I was both a leader and that I must have been incredibly successful. Like most founders, in truth I was neither a leader nor terribly successful.&lt;/p&gt;
+&lt;p&gt;Yet the title of “founder” afforded me instant credibility, which occasionally translated into invitations to speak at and join so-called social sector leadership groups.&lt;/p&gt;
+&lt;p&gt;Now that I have transitioned from &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2014/11/10/why-i-joined-the-family-independence-initiative/&quot;&gt;founder to employee&lt;/a&gt;, I am by all measures more capable of generating social value. I am more experienced, far more technically competent, and have never had a better sense of &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/09/26/philanthropic-taking-who-should-decides-whats-good-for-us/&quot;&gt;what does and does not work&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I took a job because I suck&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I was recently nominated by a contact of mine to join a social sector trade group focused on improving how the sector uses data to create impact, &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2014/04/28/hire-a-chief-data-officer/&quot;&gt;a topic&lt;/a&gt; I &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/04/01/data-does-not-make-decisions/&quot;&gt;write about&lt;/a&gt; &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2012/11/20/data-as-hero/&quot;&gt;regularly&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have joined various similar efforts in the past when I had less to say on the topic than I do now. Despite being less qualified in the past, folks were always happy to have a “founder” and “leader” join their groups.&lt;/p&gt;
+&lt;p&gt;I was pretty surprised when my nomination was turned down, literally based on &lt;a href=&quot;http://www.fii.org/leadership-team/&quot;&gt;where I rank on the FII website&lt;/a&gt; (I’m the 9th person listed on the management team page, obviously ordered from best to worst employee). To be clear, there are lots of good reasons to turn me down for just about anything, but this didn't strike me as one of them.&lt;/p&gt;
+&lt;p&gt;When I ran Idealistics, it was assumed that I was a &lt;em&gt;leader&lt;/em&gt;. Now that I work for FII, I am apparently a &lt;em&gt;follower&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Millennials don’t want your nonprofit job&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At various times I’ve heard mid and late career social sector professionals complain that Millennials are too inclined to start new organizations than to join existing ones. The logic invariably goes that we can create more social impact by joining together than fragmenting our efforts into a sea of undistinguished startups.&lt;/p&gt;
+&lt;p&gt;Yet the professional environment we have collectively created is one that fetishizes social entrepreneurs as “visionaries” and “leaders”, while employees are largely discarded as 9–5 building blocks.&lt;/p&gt;
+&lt;p&gt;It’s no wonder Millennials don’t want your nonprofit job. No one wants to be considered a building block. I sure as hell don’t.&lt;/p&gt;
+&lt;p&gt;Ultimately I closed Idealistics, and joined FII because I lost faith in the former’s ability to create social impact and grew to believe the most value I could create was by joining the latter. I never imagined I was trading recognition for results. But that’s exactly what ended up happening.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Founder culture&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The social sector is unique from the rest of the economy because of the ideal that we go into this line of work for something bigger than ourselves.&lt;/p&gt;
+&lt;p&gt;Yet our obsession with founder culture masks the core value that makes the social sector worth existing in the first place. It values individualism in a way that encourages people to optimize their careers over &lt;em&gt;how they are perceived&lt;/em&gt; at the expense of the social impact they create.&lt;/p&gt;
+&lt;p&gt;There are legitimate reasons to create new organizations. There are also legitimate reasons to join existing ones. Both of those decisions should be driven by which opportunity puts one in position to create the most social value. Obsession with founder culture disrupts this calculus, threatening the core values that make this sector worth existing in the first place.&lt;/p&gt;
+</description>
+        <pubDate>2014-11-24 06:00:45 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/11/24/how-founder-culture-threatens-the-social-sector/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/11/24/how-founder-culture-threatens-the-social-sector/</guid>
+        
+        <category>nonprofit</category>
+        
+        <category>social entrepreneur</category>
+        
+        <category>social sector</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Leveling with donors while keeping hope alive</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/lloyd-300x300.jpg&quot;&gt;&lt;img class=&quot;alignright size-full wp-image-1229&quot; src=&quot;/assets/images/lloyd-300x300.jpg&quot; alt=&quot;lloyd-300x300&quot; width=&quot;300&quot; height=&quot;292&quot; /&gt;&lt;/a&gt;Over the last year I’ve started to pay more attention to the fundraising side of the nonprofit equation. While those of use who live and breath the social sector hope donors will become less persuaded by &lt;a href=&quot;http://overheadmyth.com/&quot;&gt;financial overhead ratios&lt;/a&gt; and more focused on data driven giving, the &lt;a href=&quot;http://www.hopeconsulting.us/work/money-for-good&quot;&gt;evidence suggests donors aren’t especially interested&lt;/a&gt; in deeply researching their charitable gifts.&lt;/p&gt;
+&lt;p&gt;A recent report on donor behaviors adds more fuel to the fire, as researchers found evidence to suggest that donors don’t simply not care for data driven giving, it might actually turn them off completely. &lt;a href=&quot;http://psychology.uoregon.edu/profile/pslovic/&quot;&gt;Paul Slovic&lt;/a&gt;, a psychologist at the University of Oregon &lt;a href=&quot;http://www.npr.org/blogs/goatsandsoda/2014/11/05/361433850/why-your-brain-wants-to-help-one-child-in-need-but-not-millions&quot;&gt;conducted an experiment&lt;/a&gt; where he “told volunteers about a young girl suffering from starvation and then measured how much the volunteers were willing to donate to help her. He presented another group of volunteers with the same story of the starving little girl — but this time, also told them about the millions of others suffering from starvation.”&lt;/p&gt;
+&lt;p&gt;The volunteers who were simply told the story about the young girl suffering from starvation were &lt;em&gt;more inclined to give&lt;/em&gt; than those told both the story of the young girl suffering and given the metric of the millions more suffering.&lt;/p&gt;
+&lt;p&gt;On face, this finding seems to suggest that fundraising teams should stick to stories and keep the data to themselves. I think the finding is more nuanced than that, and doesn’t necessarily suggest donors don’t care about the numbers. Instead, Slovic tells NPR:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“It’s really about the sense of efficacy,” Slovic says. “If our brain … creates an illusion of non-efficacy, people could be demotivated by thinking, ‘Well, this is such a big problem. Is my donation going to be effective in any way?’”&lt;/p&gt;
+&lt;p&gt;Slovic’s research suggests that the way to combat this hopelessness is to give people a sense that their intervention can, in fact, make a difference.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The big harm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our impulse as &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2014/11/17/telling-average-stories/&quot;&gt;story tellers&lt;/a&gt; is to tell a big story, with a “big harm”. We want to prove that we’re tackling a big problem, and we end up weaving a grandiose narrative for donors to try to communicate the enormity of the issues we care so deeply about. The intent of course is to convince other folks they should care about these issues as much as we do.&lt;/p&gt;
+&lt;p&gt;The evidence suggests this approach doesn’t work.&lt;/p&gt;
+&lt;p&gt;It doesn’t work in part because we tell &lt;em&gt;too big&lt;/em&gt; of a story, especially relative to the donor ask. Donors want to convert their money into happiness (utility). Once a donor figures out that the marginal value of a dollar given to [insert your cause here] is zero, the rational thing to do is to &lt;em&gt;not&lt;/em&gt; give money away, as donors derive zero utility from zero impact.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outcomes ownership&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;About a year ago I started playing with a concept I call &lt;a href=&quot;https://www.dropbox.com/s/jsud19iiqb31npm/Outcomes%20ownership%20by%20donor.pdf?dl=0&quot;&gt;outcomes ownership&lt;/a&gt;. The idea is to calculate a donor’s percentage “ownership” of an organization’s outcomes. Calculating outcomes ownership is rather trivial, as a donor simply “owns” an organization’s total outcomes (over a period of time) multiplied by a donor’s contribution over total revenue.&lt;/p&gt;
+&lt;p&gt;For example, if an organization counts people placed into full-time jobs as an outcome, and an organization placed 10 people into jobs with $1,000, then a donor who gave $200 would own 200/1000 = 20% of revenue, and therefore 10*20% = 2 job placements.&lt;/p&gt;
+&lt;p&gt;What I like about this approach is that it reframes what one gets from giving in familiar terms. People who invest are generally comfortable with the idea of owning infinitesimally small percentages of public traded companies, and therefore claiming an equally small portion of profits.&lt;/p&gt;
+&lt;p&gt;Selling people on a big harm then asking for a small donation masks the fact that a small donation is part of a larger pot. Explaining to donors what their $10 buys is a fool’s errand because the fact is that $10 doesn’t buy much. Period.&lt;/p&gt;
+&lt;p&gt;An investment analogy might help balance leveling with donors by acknowledging the donation is a small part of a larger whole, while keeping hope alive that the cumulation of multiple small investments pools to a significant sum capable of creating impact.&lt;/p&gt;
+</description>
+        <pubDate>2014-11-21 06:00:49 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/11/21/leveling-with-donors-while-keeping-hope-alive/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/11/21/leveling-with-donors-while-keeping-hope-alive/</guid>
+        
+        <category>charity</category>
+        
+        <category>donation</category>
+        
+        <category>donors</category>
+        
+        <category>giving</category>
+        
+        <category>nonprofit</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Telling average stories</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/most_are_average.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-1222&quot; src=&quot;/assets/images/most_are_average-300x165.jpg&quot; alt=&quot;UNIVERSAL SETUP&quot; width=&quot;300&quot; height=&quot;165&quot; /&gt;&lt;/a&gt;I’ve never been terribly comfortable with the social sector’s &lt;a href=&quot;http://philanthropy.com/article/4-Essential-Elements-of/147827/&quot;&gt;obsession&lt;/a&gt; &lt;a href=&quot;http://philanthropy.com/article/Strength-in-Storytelling/149789/&quot;&gt;with&lt;/a&gt; &lt;a href=&quot;http://philanthropy.com/article/Nonprofit-Storytelling-Winners/149539/&quot;&gt;story telling&lt;/a&gt;. It’s not that I don’t understand that stories can be powerful. People can resonate with stories in a way that they can’t with numbers. Indeed, evidence suggests that while story telling can help drive donors to give, &lt;a href=&quot;http://www.npr.org/blogs/goatsandsoda/2014/11/05/361433850/why-your-brain-wants-to-help-one-child-in-need-but-not-millions&quot;&gt;quantitative data can actually risk turning donors off&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My problem with story telling is not the story telling itself per se, but that stories can be misleading. Perhaps more important, because story selection is driven by nonprofit fundraising and public relations people rather than those focused on data integrity, the stories told are invariably positive outliers.&lt;/p&gt;
+&lt;p&gt;I’m not the only one concerned about how stories can be misleading. &lt;a href=&quot;http://www.givedirectly.org/&quot;&gt;GiveDirectly&lt;/a&gt;, a nonprofit that provides unconditional cash transfers to those living in extreme poverty, wrote an important post on how to best balance donor demand for stories with the organization’s core tenant to present its findings in unbiased ways.&lt;/p&gt;
+&lt;p&gt;In a blogpost last week, GiveDirectly &lt;a href=&quot;http://www.givedirectly.org/blog_post.php?id=2288694352161893466&quot;&gt;outlined a set of standards it will hold itself to when sharing stories&lt;/a&gt;, and more importantly deciding which stories to share. The rules are worth reading, and are included in full below.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;To keep ourselves honest when doing so, we’ve decided to stick to three rules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Share everything, as in &lt;a href=&quot;http://www.givedirectly.org/blog_post.php?id=5453927471971916970&quot;&gt;this blog post&lt;/a&gt; on interesting spending choices;&lt;/li&gt;
+&lt;li&gt;Select recipients randomly so that every recipient’s story has an equal chance of being shared, as &lt;a href=&quot;https://www.facebook.com/givedirectly/posts/709781972450060&quot;&gt;we do weekly on Facebook&lt;/a&gt;. Or, explicitly state if the recipient was not chosen randomly and why, as in &lt;a href=&quot;http://www.givedirectly.org/blog_post.php?id=6234197500075333847&quot;&gt;this post on a recipient who experienced an adverse event&lt;/a&gt;; and/or&lt;/li&gt;
+&lt;li&gt;Provide contextualizing data so the reader can determine how representative of the average the story is. For example, if we relay a case of a woman who used her transfer to pay for a surgery, we’ll also share any data we have on average spending on medical expenses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Finding the average story&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GiveDirectly’s strategy to select stories at random is compelling. A randomly selected story holds some probability of being positive, with the complimenting probability that the story is negative. When was the last time you saw a nonprofit share a negative story?&lt;/p&gt;
+&lt;p&gt;But more interesting than sharing randomly selected stories is to systematically tell &lt;em&gt;average&lt;/em&gt; stories. Finding average stories is not an uncomplicated task, especially since one can be average on one metric (income for example), but far from average on another (like health).&lt;/p&gt;
+&lt;p&gt;One possible approach to identifying average stories is to use a machine learning clustering algorithm, such as &lt;a href=&quot;http://en.wikipedia.org/wiki/K-means_clustering&quot;&gt;k-means&lt;/a&gt;. Roughly, the k-means algorithm takes a dataset of individuals with various data-points, and places individuals into groups with others that possess similar attributes. This type of clustering is regularly used for things like customer segmentation, but can work equally as well for grouping targets of program interventions.&lt;/p&gt;
+&lt;p&gt;Improving on GiveDirectly’s approach, instead of telling random stories from the entire population, you could instead pull stories from within clusters, providing the average demographics and outcomes from each group as context for stories told.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Story telling versus truth telling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’m not against stories as defined as a qualitative accounting of an individuals lived experience. There is always more richness in a narrative than a quantitative dataset. However, I am opposed to story telling when it’s really just a pseudonym for &lt;em&gt;bullshit&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Good story telling does not just elicit a reaction from donors, it communicates the truth in a way that quantitative data never can. Even if sharing quantitative data isn’t part of an organization’s strategy for engaging donors, data should help guide which stories are shared.&lt;/p&gt;
+</description>
+        <pubDate>2014-11-17 06:00:16 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/11/17/telling-average-stories/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/11/17/telling-average-stories/</guid>
+        
+        <category>data</category>
+        
+        <category>donors</category>
+        
+        <category>giving</category>
+        
+        <category>nonprofit</category>
+        
+        <category>philanthropy</category>
+        
+        <category>stories</category>
+        
+        <category>story</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Red Cross' obvious disaster</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/obvious-math.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-1217&quot; src=&quot;/assets/images/obvious-math-300x199.jpg&quot; alt=&quot;obvious-math&quot; width=&quot;300&quot; height=&quot;199&quot; /&gt;&lt;/a&gt;At the end of October &lt;a href=&quot;http://www.propublica.org/&quot;&gt;ProPublica&lt;/a&gt; and &lt;a href=&quot;http://www.npr.org/&quot;&gt;NPR&lt;/a&gt; released a joint investigation titled &lt;a href=&quot;http://www.propublica.org/article/the-red-cross-secret-disaster&quot;&gt;“The Red Cross’ Secret Disaster”&lt;/a&gt;, looking into the gulf between the American Red Cross’s fundraising prowess in the aftermath of &lt;a href=&quot;http://en.wikipedia.org/wiki/Hurricane_Sandy&quot;&gt;Hurricane Sandy&lt;/a&gt; and the realities of its numerous stumbles in providing the relief the organization so publicly fundraised against. Indeed, to many the Red Cross seemed far better prepared to raise funds in the wake of Sandy than to deploy them effectively toward disaster relief.&lt;/p&gt;
+&lt;p&gt;The most shocking thing to me in all of these allegations against the Red Cross is that the general donor public is actually surprised that the Red Cross (or pretty much any nonprofit for that matter) prioritizes how it’s perceived over all else. A central driving tenant of every entity, be it a nonprofit, for-profit, or bunny rabbit, is to do what you can today to survive until tomorrow.&lt;/p&gt;
+&lt;p&gt;Although ProPublica and NPR have positioned their piece as an exposé on the American Red Cross’ failures during Hurricane Sandy, I read the piece more as a statement on how the market realities of running a nonprofit creates adverse incentives, driving organizations to raise funds &lt;em&gt;at the expense&lt;/em&gt; of what their stated core missions are.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Funders of change&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Most for-profit organizations create a product that they sell directly to consumers. In the nonprofit sector, the funders of a program’s interventions are typically not the recipients of those services. Since the recipients of aid are not the funders, they can’t logically be the focal points of self sustaining organizations.&lt;/p&gt;
+&lt;p&gt;ProPublica and NPR rake the American Red Cross over the coals for diverting disaster equipment toward a photo-op with model Heidi Klum, an example used in the article to demonstrate executives’ backwards priorities. While those suffering in a disaster probably have no interest in Heidi Klum slowly strolling down a street handing out bottled water as cameras roll, the reality is that those images help the Red Cross raise money.&lt;/p&gt;
+&lt;p&gt;And however bad some might argue the Red Cross is at providing disaster relief, it’s obviously &lt;a href=&quot;http://www.guidestar.org/organizations/53-0196605/american-national-red-cross.aspx&quot;&gt;damn good at raising funds&lt;/a&gt;. Like any well run self serving organization (and what organization isn’t at least somewhat self serving?), the Red Cross finely tunes its fundraising strategy. If the monetization opportunity was in providing top notch disaster relief, I can assure you Sandy outcomes would have been different.&lt;/p&gt;
+&lt;p&gt;But the reality is that most nonprofits’ monetization strategies have very little to do with their programs’ missions. Instead, nonprofits raise funds by and large on their abilities to get donors to exchange their money for the warm-glow of giving.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Smarter giving&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the donors who are outraged at the Red Cross’ alleged ineptitude and emphasis on media exposure over outcomes, I’m hopeful they become aware of their unwitting complicitness in this so called secrete disaster.&lt;/p&gt;
+&lt;p&gt;For all the arguments about how we need &lt;em&gt;more&lt;/em&gt; money in the social sector, I’m more persuaded by those who call for &lt;em&gt;smarter&lt;/em&gt; giving. To me, smart giving is giving that is driven by a donor’s best guess of the value created by an organization, optimally influenced by evidence instead of celebrity.&lt;/p&gt;
+&lt;p&gt;Organizations like &lt;a href=&quot;http://www.givewell.org/&quot;&gt;GiveWell&lt;/a&gt; have carved out narrow niches to better inform donors with specific preferences, although I suspect donors seeking advice from the likes of GiveWell are likely to be unimpressed by Heidi Klum in a disaster response vehicle in the first place.&lt;/p&gt;
+&lt;p&gt;The big money, and the big challenge, is in the general donor public. The fact is that the Red Cross knows the donor public very, very well.&lt;/p&gt;
+&lt;p&gt;So long as donors show a preference for media hype over results, shrewdly optimized organizations like the Red Cross will deliver the product their (paying) customers demand.&lt;/p&gt;
+</description>
+        <pubDate>2014-11-13 06:00:12 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/11/13/the-red-cross-obvious-disaster/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/11/13/the-red-cross-obvious-disaster/</guid>
+        
+        <category>disaster</category>
+        
+        <category>donors</category>
+        
+        <category>giving</category>
+        
+        <category>nonprofit</category>
+        
+        <category>red cross</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why I joined the Family Independence Initiative</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/images/FII-logo-orange.jpg&quot;&gt;&lt;img class=&quot;alignright size-medium wp-image-1206&quot; src=&quot;/assets/images/FII-logo-orange-232x300.jpg&quot; alt=&quot;FII logo orange&quot; width=&quot;232&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;On September 1st, 2014 I joined the &lt;a href=&quot;http://www.fii.org/&quot;&gt;Family Independence Initiative&lt;/a&gt; (FII) as the Director of Analytics. When I decided to &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2013/06/18/goodbye-idealistics/&quot;&gt;shut down Idealistics in the summer of 2013&lt;/a&gt; I figured the next step for me would be joining a team focusing on domestic and/or international poverty. In the time between shutting down Idealistics and joining FII I consulted with a range of nonprofits, foundations, and businesses, none of which felt quite like something I wanted to dedicate several years of my life to.&lt;/p&gt;
+&lt;p&gt;I decided to close Idealistics in part because I had lost faith that the company’s technologies were really helping the nonprofits I worked with to create social impact. Indeed, I had lost faith that anti-poverty interventions had much effect at all.&lt;/p&gt;
+&lt;p&gt;I had come to realize that so much of my work, like the social sector itself, had been based on a misguided paradigm of a nonprofit sector providing solutions to distressed “clients” in “need” of answers. This paradigm doesn’t only oversimplify the poor, it plainly gets them wrong.&lt;/p&gt;
+&lt;p&gt;As I was losing faith in the efficacy of the program driven nonprofit model, my interest in cash transfers was growing considerably. In my personal giving, I support &lt;a href=&quot;http://www.givedirectly.org&quot;&gt;GiveDirectly&lt;/a&gt;, a nonprofit that experiments with giving unconditional cash transfers to those living in extreme poverty in the developing world. While the evidence around conditional cash transfers is pretty compelling, and the evidence base for unconditional cash transfers is growing, what I find most compelling about the unconditional cash transfer model has less to do with the transfer of money and more to do with the underlying notion of trusting people living in poverty.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Positive deviance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Positive_deviance&quot;&gt;Positive deviance&lt;/a&gt; is a phenomenon whereby certain individuals given the same circumstance and access to raw materials are able to achieve better outcomes than their peers. The term was first coined by nutritionists and applied by those studying how certain families in rural Vietnam in the 1990s were able to provide better nutrition for their children than most families in the same areas.&lt;/p&gt;
+&lt;p&gt;I had not learned about the term positive deviance until joining FII, but it instantly resolved much of what I’ve been uncomfortable with about the social sector for so long and why I was attracted to models like GiveDirectly and FII.&lt;/p&gt;
+&lt;p&gt;I have never lived in any type of poverty, from extreme poverty in the developing world to domestic poverty as defined by the U.S. federal poverty line. It is asinine to believe I should see a pathway out of poverty, given my complete ignorance of any of its realities. Yet asinine I’ve been for the last decade of my career.&lt;/p&gt;
+&lt;p&gt;In FII I found an organization that is less interested in &lt;em&gt;solving&lt;/em&gt; the problems of the poor, and instead more interested in &lt;em&gt;learning&lt;/em&gt; about how the poor improve themselves, their families, and their own communities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data driven nonprofit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There’s a lot of talk in the social sector about data driven nonprofits. I spent eight years at Idealistics and an additional year as an independent consultant working with nonprofits to try to help them improve their data infrastructures to little success.&lt;/p&gt;
+&lt;p&gt;I’ve written before about the pitfalls of poor data literacy in the social sector, but data literacy is something that can be overcome and &lt;a href=&quot;http://www.fullcontactphilanthropy.com/2014/04/28/hire-a-chief-data-officer/&quot;&gt;hired into an organization&lt;/a&gt;. What cannot be acquired through new hires is a &lt;em&gt;data culture&lt;/em&gt;. A data culture requires the organization from top to bottom to truly adhere to not only investing in the ability to mine data for feedback, but then taking that feedback and turning it into organizational change.&lt;/p&gt;
+&lt;p&gt;Given the nonprofit model of developing a theory of change, then fundraising around that model, it’s not terribly surprising that nonprofits struggle to be data driven. A data driven nonprofit must be willing to accept not only that its theory of change &lt;em&gt;might&lt;/em&gt; be wrong, but instead it must expect that it is &lt;em&gt;most likely&lt;/em&gt; wrong.&lt;/p&gt;
+&lt;p&gt;Indeed, in graduate school my econometrics professor taught me that “all models are wrong, but some are useful”. An analyst’s role is to develop models that are knowingly wrong that hopefully get less wrong through time, as more data is acquired. This approach of iterative improvement and willingness to shift key assumptions is antithetical to how nonprofits are largely financed. Too often, a funder invests in a nonprofit on the assumption that the nonprofit’s theory of change is correct, leaving the nonprofit to use data to &lt;em&gt;justify&lt;/em&gt; the funder’s investment rather than to use data to identify where the organization is wrong, and how to improve.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Investing in people, not nonprofits&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I did not get into the social sector because I love nonprofits. I got into the social sector because I love people. Somewhere along the way, my career became about serving nonprofits, not serving people, not serving communities.&lt;/p&gt;
+&lt;p&gt;The word “service” is a popular way to describe our line of work in the nonprofit sector. Of course, when I receive “service” I expect to get what I want. I seek out services to help me achieve a goal, &lt;em&gt;my goal&lt;/em&gt;, not a goal someone else has determined for me.&lt;/p&gt;
+&lt;p&gt;At FII, my job is to use data to learn from families how they improve themselves and their communities. I’m not tasked with &lt;em&gt;proving&lt;/em&gt; a particular model, instead I'm learning about how families define success on their own terms, and how we (collectively) can invest in the incredible initiatives already underway by people that we (in the social sector) for too long have considered &lt;em&gt;objects&lt;/em&gt; of change instead of &lt;em&gt;agents&lt;/em&gt; of change.&lt;/p&gt;
+&lt;p&gt;I couldn't be more thrilled.&lt;/p&gt;
+</description>
+        <pubDate>2014-11-10 05:00:12 -0800</pubDate>
+        <link>http://fullcontactphilanthropy.com/2014/11/10/why-i-joined-the-family-independence-initiative/</link>
+        <guid isPermaLink="true">http://fullcontactphilanthropy.com/2014/11/10/why-i-joined-the-family-independence-initiative/</guid>
+        
+        <category>charity</category>
+        
+        <category>nonprofit</category>
+        
+        <category>poverty</category>
+        
+        <category>social sector</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
