@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
+  <div class="post-wrapper">
   {% for post in paginator.posts %}
     <div class="post">
       <header class="post-header">
@@ -18,10 +18,12 @@ layout: default
         {{ post.content }}
       </article>
     </div>
-
   {% endfor %}
+  </div>
+  {% include sidebar.html %}
 
   <!-- Pagination links -->
+  <div style="clear:both"></div>
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-hand-o-left"></i> Previous</a>
