@@ -4,6 +4,10 @@ title: Projects
 permalink: /Projects/
 ---
 
+# Datadocs
+
+Datadocs automatically generates searchable documentation of data stored in csv files. You can learn more about and download Datadocs by visiting the [Datadocs github page](https://github.com/dhenderson/datadocs/) or viewing a sample version of documentation [generated using Datadocs](http://fullcontactphilanthropy.com/datadocs/).
+
 # Message in a Bottle
 
 [Message in a Bottle][message-in-bottle] is an [Angular][angular] and [Firebase][firebase] backed web-app that allows people to post anonymous messages that are purged after ten views.
