@@ -1,13 +1,12 @@
 ---
 title: Cash transfers are not investments in the poor
 layout: post
-date: 2015-08-04
+date: 2015-08-03
 tags:
 - data
 - cash transfer
 - nonprofit
 - charity
-status: publish
 published: true
 ---
 
