@@ -4,6 +4,14 @@ title: Projects
 permalink: /Projects/
 ---
 
+# GaveTo
+
+[GaveTo](http://www.gaveto.org) enables donors and volunteers to keep track of the nonprofits they give to, all in one place. GaveTo subscribes to information from nonprofit's blogs and social media feeds, consolidating this information into one monthly report delivered via email.
+
+Also, with GaveTo donors can build giving recommendation lists, explaining their rationale for why they support the nonprofits they give to. Sharing this information with friends and families can help influence others' giving decisions.
+
+I wrote about [why I created GaveTo here](http://fullcontactphilanthropy.com/2015/11/23/introducing-gaveto/).
+
 # Datadocs
 
 Datadocs automatically generates searchable documentation of data stored in csv files. You can learn more about and download Datadocs by visiting the [Datadocs Github page](https://github.com/dhenderson/datadocs/) or viewing a sample version of documentation [generated using Datadocs](http://fullcontactphilanthropy.com/datadocs/).
