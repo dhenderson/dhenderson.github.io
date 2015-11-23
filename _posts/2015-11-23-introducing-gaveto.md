@@ -14,7 +14,7 @@ After completing my year-end giving last year I found myself feeling surprisingl
 
 And I'm sorry to say, a *nonprofit* is not a cause. Giving to a nonprofit is not remotely satisfying. As a donor, I want to feel like I've *taken a position* in the impact the organization generates. Instead, I was left feeling like I'd simply given money away, without getting any sense of impact in return.
 
-Earlier this year I started working on a side project I call [GaveTo](htttp://www.gaveto.org).  GaveTo is the Guidestar and Charity Navigator I always wanted. I created GaveTo so that I could be a better informed donor. GaveTo has the following features that have certainly made me feel better informed:
+Earlier this year I started working on a side project I call [GaveTo](http://www.gaveto.org).  GaveTo is the Guidestar and Charity Navigator I always wanted. I created GaveTo so that I could be a better informed donor. GaveTo has the following features that have certainly made me feel better informed:
 
 * **Related facts** - Nonprofit profiles on GaveTo contain the expected information such as a brief about statement and financial information. But GaveTo also surfaces related facts, such as [the number of people experiencing homelessness over time for organizations that provide homeless services](http://www.gaveto.org/organization/organization/953950196).
 <img src="/assets/images/2015-11-23-introducing-gaveto/related-facts.png" />
