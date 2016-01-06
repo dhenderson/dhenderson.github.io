@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: 'Source Sans Pro', sans-serif;
 $brand-font-family: 'Crimson Text', serif;
@@ -23,7 +21,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    850px;
+$content-width:    800px;
 
 $on-palm:          700px;
 $on-laptop:        750px;

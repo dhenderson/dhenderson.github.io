@@ -3,11 +3,8 @@
  */
 .site-header {
     // Positioning context for the mobile navigation icon
-    position: fixed;
-    width: 100%;
-    border-top: 0px solid #000;
-    background-color: #FFF;
-    border-bottom: 1px solid $grey-color-light;
+    background-color: #333;
+    color: #FFF;
 }
 
 /**
@@ -25,18 +22,18 @@
     letter-spacing: -1px;
     float: left;
     font-family: $brand-font-family;
-    color: #000;
-    background-color: #FFF;
-    font-weight: bold;
+    color: #FFF;
+    background-color: #333;
+    font-weight: normal;
     line-height: 56px;
 }
-.site-title a, .site-title a:visited, .site-title a:hover {
-  color: #000;
+.site-title a, .trigger a, .site-title a:visited, .site-title a:hover, .trigger a:visited, .trigger a:hover{
+  color: #FFF;
   text-decoration: none;
 }
 
 .site-nav {
-    float: right;
+    text-align: right;
     line-height: 56px;
     font-size: $small-font-size;
 
@@ -45,7 +42,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #FFF;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -58,7 +55,7 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: #333;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
 
@@ -76,7 +73,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: #FFF;
                 }
             }
         }
@@ -170,9 +167,6 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
-    .site-title {
-      font-size: 24px;
-    }
 }
 
 
@@ -182,7 +176,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    padding-top: 90px;
+    margin-top: 0px;
 }
 
 .page-heading {
