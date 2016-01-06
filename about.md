@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey there, my name is David Henderson and I have worked with a wide range of organizations in the social sector helping them get more from their operational, outcomes, and donor data. I work at the [Family Independence Initiative][fii] where I’m the Director of Analytics.
+Hey there, my name is David Henderson and I have worked with a wide range of organizations in the social sector helping them get more from their operational, outcomes, and donor data. I work at the [Family Independence Initiative][fii] where I’m the Chief Data Officer.
 
 My professional focus is on improving the way social sector organizations utilize information to implement higher impact interventions. I have been quoted in the Chronicle of Philanthropy and have written for Change.org and the Huffington Post.
 
