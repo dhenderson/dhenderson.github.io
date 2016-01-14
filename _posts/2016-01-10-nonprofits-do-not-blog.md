@@ -13,7 +13,7 @@ I based [GaveTo][gaveto], the [side project I've been working][why-gaveto] on to
 
 Since I'm rolling GaveTo out in a slow elongated beta, I'm asking beta testers ([signup to be one!][gaveto]) to recommend nonprofits they give to that they want added to the GaveTo database. While the nonprofits *I give to* are prolific bloggers, I wrongly assumed this was largely true of all nonprofits. Like any good beta testers, the GaveTo beta testers have suggested a ton of nonprofits that do not blog at all, calling into question one of the GaveTo founding assumptions.
 
-For GaveTo the obvious implication is that I need to rethink some elements of the system, as it really is designed around the beliefs that nonprofits publish blog feeds as [Atom](https://en.wikipedia.org/wiki/Atom_(standard)) or [RSS](https://en.wikipedia.org/wiki/RSS).
+For GaveTo the obvious implication is that I need to rethink some elements of the system, as it really is designed around the beliefs that nonprofits publish blog feeds as Atom or RSS.
 
 GaveTo will survive, but the more distressing issue to me is that nonprofits do not blog. Although they don't blog, that doesn't mean nonprofits don't produce content. They do, and lots of it. But the content is siloed into social media platforms like Twitter and Facebook which have a [history of developer hostility][bad-twitter]. This matters for two reasons.
 
