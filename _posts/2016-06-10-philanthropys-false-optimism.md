@@ -1,7 +1,7 @@
 ---
 title: Philanthropy's false optimism
 date: 2016-06-10
-layout: Post
+layout: post
 published: true
 tags:
 - nonprofit
