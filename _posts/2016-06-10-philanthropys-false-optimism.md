@@ -31,7 +31,7 @@ In human services, the theory of change is often steeped in a deep rooted belief
 
 These assumptions are not only wrong, but they underscore a sinicism that undermines the presumption of philanthropic optimism. Poor people can and do succeed everyday on their own terms without any external "social intervention". We see this at FII and [GiveDirectly][givedirectly] is making this case in international development.
 
-**An optomist all along**
+**An optimist all along**
 
 I used to think I was a formerly optimistic person who had become a pessimist after realizing the social sector did not have the impact I had hoped. The exact opposite is true. I started my career with a pessimistic view of the poor. I believed they could not succeed. I was wrong, I was a pessimist.
 
@@ -41,7 +41,7 @@ Indeed, what do they need us for.
 
 The social sector business model, of which I'm no doubt a part, is to sell donors on a disbeliefe in the poor, and then to sell *their* outcomes as *ours*. But nonprofits do not create social impact, people and families do.
 
-Optimism is *believing* in people. Optomism is *investing* in families. Anything else is pesimissm, although I'm not terribly optimistic the social sector will change.
+Optimism is *believing* in people. Optimism is *investing* in families. Anything else is pessimism, although I'm not terribly optimistic the social sector will change.
 
 [idealistics]: http://fullcontactphilanthropy.com/2013/06/18/goodbye-idealistics/
 [fii]: http://fullcontactphilanthropy.com/2014/11/10/why-i-joined-the-family-independence-initiative/
