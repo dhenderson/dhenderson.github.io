@@ -29,7 +29,7 @@ In human services, the theory of change is often steeped in a deep rooted belief
 - Are not capable of holding jobs
 - Don't care for their health
 
-These assumptions are not only wrong, but they underscore a sinicism that undermines the presumption of philanthropic optimism. Poor people can and do succeed everyday on their own terms without any external "social intervention". We see this at FII and [GiveDirectly][givedirectly] is making this case in international development.
+These assumptions are not only wrong, but they underscore a cynicism that undermines the presumption of philanthropic optimism. Poor people can and do succeed everyday on their own terms without any external "social intervention". We see this at FII and [GiveDirectly][givedirectly] is making this case in international development.
 
 **An optimist all along**
 
