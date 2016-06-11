@@ -14,11 +14,11 @@ In the year or so between shutting my business down and joining the [Family Inde
 
 Also during this period before joining FII I was courted by a social sector technology startup. My experience at the intersection of technology and nonprofits was attractive. However, the CEO of this company made it clear that my lack of faith in the social sector was not, telling me I was "too pessimistic" for the job.
 
-For a long while I thought she was right. Why couldn't I just *believe* in the social sector, and enjoy the cognitive dissidents of doing well for myself while believing I'm doing well for others as well. As much as I wanted to believe, I just didn't.
+For a long while I thought she was right. Why couldn't I just *believe* in the social sector, and enjoy the cognitive dissonance of doing well for myself while believing I'm doing well for others as well? As much as I wanted to believe, I just didn't.
 
 **True pessimism**
 
-It wasn't until I joined FII that I realized what true optomism is, and how in my opinion the social sector masks *extreme pessimism* as false optimism.
+It wasn't until I joined FII that I realized what true optimism is, and how in my opinion the social sector masks *extreme pessimism* as false optimism.
 
 At the heart of any social intervention is the theory of change. The theory of change assumes that some form of external intervention (tutoring program, job training, etc.) can drive a positive outcome (kids graduate from school, parents get jobs).
 
@@ -35,11 +35,11 @@ These assumptions are not only wrong, but they underscore a sinicism that underm
 
 I used to think I was a formerly optimistic person who had become a pessimist after realizing the social sector did not have the impact I had hoped. The exact opposite is true. I started my career with a pessimistic view of the poor. I believed they could not succeed. I was wrong, I was a pessimist.
 
-Now I know the poor can and do succeed every day. I am an optomist. But the social sector is not, and with good reason. The optimism I speak of undermines the fabric of the social sector. Trust in people ironically is an affront to those of us who make our living "aiding" the poor. If they can do it on their own, what do they need us for? 
+Now I know the poor can and do succeed every day. I am an optimist. But the social sector is not, and with good reason. The optimism I speak of undermines the fabric of the social sector. Trust in people ironically is an affront to those of us who make our living "aiding" the poor. If they can do it on their own, what do they need us for? 
 
 Indeed, what do they need us for.
 
-The social sector business model, of which I'm no doubt a part, is to sell donors on a disbeliefe in the poor, and then to sell *their* outcomes as *ours*. But nonprofits do not create social impact, people and families do.
+The social sector business model, of which I'm no doubt a part, is to sell donors on a disbelief in the poor, and then to sell *their* outcomes as *ours*. But nonprofits do not create social impact, people and families do.
 
 Optimism is *believing* in people. Optimism is *investing* in families. Anything else is pessimism, although I'm not terribly optimistic the social sector will change.
 
