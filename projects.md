@@ -6,7 +6,7 @@ permalink: /Projects/
 
 # GaveTo
 
-[GaveTo](http://www.gaveto.org) enables donors and volunteers to keep track of the nonprofits they give to, all in one place. GaveTo subscribes to information from nonprofit's blogs and social media feeds, consolidating this information into one monthly report delivered via email.
+GaveTo (retired) enables donors and volunteers to keep track of the nonprofits they give to, all in one place. GaveTo subscribes to information from nonprofit's blogs and social media feeds, consolidating this information into one monthly report delivered via email.
 
 Also, with GaveTo donors can build giving recommendation lists, explaining their rationale for why they support the nonprofits they give to. Sharing this information with friends and families can help influence others' giving decisions.
 
